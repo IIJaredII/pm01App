@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pm01App</string>
+    <string name="registroingresado">Registro ingresado con exito</string>
+    <string name="registroerroneo">Registro no se registro Exitosamente :D</string>
+</resources>
